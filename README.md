@@ -8,11 +8,13 @@ Some time ago I wrote Minecraft Plugins for the organisation [SkyCave.de](https:
 ### - 🦄 Currently working on:
   - 🏹 Hypixel API requests
   - 🔥 My Own Minecraft Hypixel Skyblock Mod
+  - 💯 Valorant plugin in Minecraft
 
 ### - 👻 Planned for the future:
   - ✨ Hypixel bot controlled by the official Hypixel API
   - 🐬 Anti Cheat API for public use
-  
+  - 🪐 Dead by Daylight Minecraft plugin
+  - 🚗 Dead by Daylight map generation ai
   
   
 ### - 😈 Minecraft Anti Cheat: 
