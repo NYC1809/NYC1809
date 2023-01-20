@@ -1,16 +1,20 @@
-### Hi there 👋
+### H'ello 👋
 
-<!--
-**NYC1809/NYC1809** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am NYC_1809 and I am not really good at coding. I have some nice projects planned, which I will work at in the future.
+My main topic will be about minecraft and everything around it.
 
-Here are some ideas to get you started:
+Some time ago I wrote Minecraft Plugins for the organisation [SkyCave.de](https://github.com/skycavemc).
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🦄 Currently working on:
+  - 🏹 Hypixel API requests
+  - 🔥 My Own Minecraft Hypixel Skyblock Mod
+
+### 👻 Planned for the future:
+  - ✨ Hypixel bot controlled by the official Hypixel API
+  - 🐬 Anti Cheat API for public use
+  
+  
+  
+### 😈 Minecraft Anti Cheat: 
+  - 🖤 Anti Cheat - controlled by an neuronal network
+  - 🦔 Anti Cheat - network to test my anti cheat (public usable)
