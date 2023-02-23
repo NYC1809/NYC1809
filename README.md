@@ -7,7 +7,7 @@ Some time ago I wrote Minecraft Plugins for [SkyCave.de](https://github.com/skyc
 
 ### - 🦄 Currently working on:
   - 🏹 Hypixel API requests
-  - 
+  - 🎨 Minecraft Bingo
   - 🔥 My Own Minecraft Hypixel Skyblock Mod
   - 💯 Valorant plugin in Minecraft
 
