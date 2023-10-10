@@ -21,4 +21,4 @@ Some time ago I wrote Minecraft Plugins for [SkyCave.de](https://github.com/skyc
   
 ### - 😈 Minecraft Anti Cheat: 
   - 🖤 Anti Cheat 
-  - 🦔 Anti Cheat - network to test my anti cheat (public usable)
+  - 🦔 Anti Cheat - server network (public usable)
