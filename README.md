@@ -15,10 +15,10 @@ Some time ago I wrote Minecraft Plugins for [SkyCave.de](https://github.com/skyc
   - ✨ Hypixel skyblock bot
   - 🐬 Anti Cheat API for public use
   - 🪐 Dead by Daylight Minecraft plugin
-  - 🚗 Dead by Daylight map generation ai
+  - 🚗 Dead by Daylight map generation 
   - 💫 Re-creation of Hypixel Skyblock
   
   
 ### - 😈 Minecraft Anti Cheat: 
-  - 🖤 Anti Cheat - controlled by an neuronal network
+  - 🖤 Anti Cheat 
   - 🦔 Anti Cheat - network to test my anti cheat (public usable)
