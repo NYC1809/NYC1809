@@ -6,13 +6,13 @@ My main topic will be about minecraft and everything around it.
 Some time ago I wrote Minecraft Plugins for [SkyCave.de](https://github.com/skycavemc).
 
 ### - 🦄 Currently working on:
-  - 🏹 Hypixel API requests
   - 🎨 Minecraft Bingo
-  - 🔥 My Own Minecraft Hypixel Skyblock Mod
   - 💯 Valorant plugin in Minecraft
 
 ### - 👻 Planned for the future:
   - ✨ Hypixel skyblock bot
+  - 🏹 Hypixel API requests
+  - 🔥 My Own Minecraft Hypixel Skyblock Mod
   - 🐬 Anti Cheat API for public use
   - 🪐 Dead by Daylight Minecraft plugin
   - 🚗 Dead by Daylight map generation 
@@ -21,4 +21,4 @@ Some time ago I wrote Minecraft Plugins for [SkyCave.de](https://github.com/skyc
   
 ### - 😈 Minecraft Anti Cheat: 
   - 🖤 Anti Cheat 
-  - 🦔 Anti Cheat - server network (public usable)
+  - 🦔 Anti Cheat - server network 
